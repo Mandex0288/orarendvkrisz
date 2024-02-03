@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
+
+table{
+    margin:  auto;
+    padding: 10px;
+    display: flex;
+}
+
+td, th{
+    border: 3px rgb(0, 255, 255) solid;
+  }
+
+
+body{
+    background-color: rgb(119, 115, 115);
+}
+
+td{
+    font-family: "JetBrains Mono";
+    color: rgb(0, 0, 0);
+}
+h2{
+    text-shadow: -2px -2px 0 black, 2px -2px 0 black, -2px 2px 0 black, 2px 2px 0 black;
+    font-family: "JetBrains Mono", monospace;
+    font-optical-sizing: auto;
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+tr{
+    font-family: "JetBrains Mono", monospace;
+    color: rgb(0, 255, 0);
+}
+
+table, tr {
+    
+
+    border-radius: 15px;
+    margin: 15px 15px;
+    padding: 5px;
+    justify-content: center;
+    /*text-align: justify;*/;
+}
+
+
+.tesi{
+    background-color: blue;
+}
+.ofo{
+    background-color: azure;
+}
+.tori{
+    background-color: chartreuse;
+}
+.ita{
+    background-color: aquamarine;
+}
+.angol{
+    background-color: blueviolet;
+
+}
+.fizika{
+    background-color: deepskyblue;
+}
+.foldrajz{
+    background-color: lawngreen;
+}
+.matek{
+    background-color: salmon;
+}
+.dk{
+    background-color: lightseagreen;
+}
+.magyarny{
+    background-color: gold;
+}
+.kemia{
+    background-color: royalblue;
+}
+.pra{
+    color: white;
+    background-color: navy;
+}
+.iprl{
+    background-color: violet;
+}
+.biosz{
+    background-color: yellow;    
+}
+.irodalom{
+    background-color: darkviolet
+}
+
+
+
+
+
